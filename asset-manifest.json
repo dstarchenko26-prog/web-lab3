@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-lab3/static/css/main.65d06d4a.css",
+    "main.js": "/web-lab3/static/js/main.3dd77b8b.js",
+    "static/media/achievement1+.png": "/web-lab3/static/media/achievement1+.a2473cde078a71916f6d.png",
+    "static/media/achievement4+.png": "/web-lab3/static/media/achievement4+.7e8770226de25da4d919.png",
+    "static/media/achievement4.png": "/web-lab3/static/media/achievement4.589b008745602a312b4e.png",
+    "static/media/cross.png": "/web-lab3/static/media/cross.26d4582a8eb5ded53a5a.png",
+    "static/media/done.png": "/web-lab3/static/media/done.8434265efa6703250bb5.png",
+    "static/media/achievement1.png": "/web-lab3/static/media/achievement1.04310f73186b083e5707.png",
+    "static/media/achievement3.png": "/web-lab3/static/media/achievement3.81386002a0a493339582.png",
+    "static/media/achievement2.png": "/web-lab3/static/media/achievement2.bf7792dfa674698dfbff.png",
+    "static/media/achievement3+.png": "/web-lab3/static/media/achievement3+.7bdbd598607aa0e3931b.png",
+    "static/media/add.png": "/web-lab3/static/media/add.f5d7c4893866eb243ac9.png",
+    "index.html": "/web-lab3/index.html",
+    "main.65d06d4a.css.map": "/web-lab3/static/css/main.65d06d4a.css.map",
+    "main.3dd77b8b.js.map": "/web-lab3/static/js/main.3dd77b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d06d4a.css",
+    "static/js/main.3dd77b8b.js"
+  ]
+}
